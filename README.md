@@ -15,7 +15,7 @@ git clone https://github.com/RishitModi/se.git
 2. Go into the project folder:
 
 ```
-cd src
+cd se
 ```
 
 3. Compile the source files:
@@ -32,15 +32,17 @@ java -cp src MainApp
 
 ## Project Structure
 
+```
 .
 ├── README.md
 ├── .gitignore
 └── src/
-	├── MainApp.java
-	├── ComplaintService.java
-	├── BlackBoxTestRunner.java
-	├── WhiteBoxTestRunner.java
-	└── ...
+    ├── MainApp.java
+    ├── ComplaintService.java
+    ├── BlackBoxTestRunner.java
+    ├── WhiteBoxTestRunner.java
+    └── ...
+```
 
 ## 3. Menu Options
 
