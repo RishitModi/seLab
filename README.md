@@ -9,13 +9,13 @@ Complaint Tracking System (CLI-Based)
 1. Clone the repository:
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/RishitModi/se.git
 ```
 
 2. Go into the project folder:
 
 ```
-cd <project-folder>
+cd src
 ```
 
 3. Compile the source files:
