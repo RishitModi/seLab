@@ -9,13 +9,13 @@ Complaint Tracking System (CLI-Based)
 1. Clone the repository:
 
 ```
-git clone https://github.com/RishitModi/se.git
+git clone https://github.com/RishitModi/seLab.git
 ```
 
 2. Go into the project folder:
 
 ```
-cd se
+cd seLab
 ```
 
 3. Compile the source files:
